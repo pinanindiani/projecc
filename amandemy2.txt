@@ -1,1 +1,2 @@
 membuat repositoryg
+commit kedua
